@@ -15,8 +15,8 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34A65844-FFE1-45AC-BCA9-644894789F28}.Debug|x64.ActiveCfg = Debug|x64
-		{34A65844-FFE1-45AC-BCA9-644894789F28}.Debug|x64.Build.0 = Debug|x64
+		{34A65844-FFE1-45AC-BCA9-644894789F28}.Debug|x64.ActiveCfg = Debug|Win32
+		{34A65844-FFE1-45AC-BCA9-644894789F28}.Debug|x64.Build.0 = Debug|Win32
 		{34A65844-FFE1-45AC-BCA9-644894789F28}.Debug|x86.ActiveCfg = Debug|Win32
 		{34A65844-FFE1-45AC-BCA9-644894789F28}.Debug|x86.Build.0 = Debug|Win32
 		{34A65844-FFE1-45AC-BCA9-644894789F28}.Release|x64.ActiveCfg = Release|x64
@@ -25,8 +25,8 @@ Global
 		{34A65844-FFE1-45AC-BCA9-644894789F28}.Release|x86.Build.0 = Release|Win32
 		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Debug|x64.ActiveCfg = Debug|x64
 		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Debug|x64.Build.0 = Debug|x64
-		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Debug|x86.ActiveCfg = Debug|Win32
-		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Debug|x86.Build.0 = Debug|Win32
+		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Debug|x86.ActiveCfg = Debug|x64
+		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Debug|x86.Build.0 = Debug|x64
 		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Release|x64.ActiveCfg = Release|x64
 		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Release|x64.Build.0 = Release|x64
 		{3F19E666-5CAF-4642-859B-DEC5656F34AA}.Release|x86.ActiveCfg = Release|Win32
