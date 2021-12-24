@@ -2,12 +2,12 @@
 
 using namespace std;
 
-extern "C" int MyFunc();
+//extern "C" int MyFunc();
 
-extern "C" int TestFloat();
+extern "C" int MFunc5();
 
 int main()
 {
-	cout << "The result is: " << MyFunc() << endl;
+	cout << "The result is: " << MFunc5() << endl;
 	return 0;
 }

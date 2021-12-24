@@ -50,13 +50,24 @@ void RunFormula1()
 	cin >> a >> b;
 
 	cout << "(a - 1) / 2 + 4 * (b + 1) = " <<
-		Formula(a, b) << '\n';
+		Formula1(a, b) << '\n';
+}
+
+int Test1()
+{
+	__asm
+	{
+		mov eax, 514;
+		sub ah, al;
+	}
 }
 
 int main()
 {
 	//RunPower2();
-	//RunFormula();
+	//RunFormula1();
+
+	Test1();
 
 	return 0;
 }
